@@ -21,5 +21,6 @@ Professional certifications showcasing Cloud, DevOps, Cybersecurity, and Agile e
 
 
 ---
-**All certificates are authentic originals from authorized providers.**  
+**Verification Statement:** These certificates represent authentic completions from authorized training providers. Official AWS certifications are verified via Credly badges.
+
 **Last Updated:** Feb 26, 2026
